@@ -8,8 +8,10 @@ Find the minimal amount of time for which, every person in the queue will buy ti
 
 Input:
 
+```
 T = [5, 2, 7, 8, 3, 9, 4, 2]
 S = [6, 3, 10, 12, 8, 8, 6]
+```
 
 Output: 
 
